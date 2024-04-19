@@ -17,6 +17,10 @@ The restaurant industry in India is diverse and dynamic, with a wide range of cu
 
 This project aims to provide insights into the Indian restaurant industry through data analysis and propose a marketing campaign tailored to capitalize on market opportunities and customer preferences.
 
+![P Pollution](Images/a1.png "Market Analysis")
+
+![P Pollution](Images/a2.png "Market Analysis")
+
 ## Key Findings
 
 - Descriptive statistics reveal the average cost for two, price range, aggregate rating, and votes for restaurants.
