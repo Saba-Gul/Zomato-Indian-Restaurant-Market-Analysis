@@ -21,6 +21,8 @@ This project aims to provide insights into the Indian restaurant industry throug
 
 ![P Pollution](Images/a2.png "Market Analysis")
 
+
+
 ## Key Findings
 
 - Descriptive statistics reveal the average cost for two, price range, aggregate rating, and votes for restaurants.
@@ -30,6 +32,10 @@ This project aims to provide insights into the Indian restaurant industry throug
 - Customer preference analysis examines the types of cuisines preferred in different regions and their relationship with restaurant ratings and pricing.
 - Competitive analysis identifies major competitors, their strengths, and weaknesses.
 - Market gap analysis identifies opportunities for restaurant chains to fill gaps in the market.
+
+![P Pollution](Images/ratings.png "Distribution of High Rated Restaurants (>4.5) In India")
+
+![P Pollution](Images/newplot.png "Distribution of High Rated Restaurants In India")
 
 ## Analysis Details
 
@@ -42,6 +48,8 @@ Based on the insights gathered from the analysis, the marketing campaign proposa
 ## Visualizations
 
 The project includes various visualizations such as histograms, scatter plots, and heatmaps to illustrate distribution, correlations, regional trends and dashboards. These visualizations help stakeholders understand the data and derive meaningful insights.
+
+
 
 ## Conclusion
 
