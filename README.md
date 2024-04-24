@@ -2,6 +2,8 @@
 
 This project analyzes restaurant data from various regions in India and proposes a marketing campaign based on the insights derived from the analysis. The analysis includes descriptive statistics, distribution analysis, correlation analysis, regional analysis, customer preference analysis, competitive analysis, and market gap analysis.
 
+![P Pollution](Images/stopw.png "Correlation analysis")
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -26,12 +28,27 @@ This project aims to provide insights into the Indian restaurant industry throug
 ## Key Findings
 
 - Descriptive statistics reveal the average cost for two, price range, aggregate rating, and votes for restaurants.
+  
+![P Pollution](Images/des1.png "Descriptive statistics")
+
 - Distribution analysis highlights variations in average cost, rating, and votes across restaurants.
+
 - Correlation analysis shows the relationship between aggregate rating, price range, and votes.
+  
+![P Pollution](Images/CorrMatrix.png "Correlation analysis")
+
 - Regional analysis identifies unique characteristics of dining scenes and popular cuisines in each region.
 - Customer preference analysis examines the types of cuisines preferred in different regions and their relationship with restaurant ratings and pricing.
-- Competitive analysis identifies major competitors, their strengths, and weaknesses.
-- Market gap analysis identifies opportunities for restaurant chains to fill gaps in the market.
+
+![P Pollution](Images/best_by_city.png "Best Restaurants_by_City & Ratings")
+
+- **Competitive analysis:** Identifing major competitors, their strengths, and weaknesses.
+  
+  ![P Pollution](Images/top10byrating.png "Best Restaurants_by_Ratings")
+
+  ![P Pollution](Images/on.png "Best Restaurants_by_Outlets fequency")
+  
+- **Market gap analysis:** Identifing opportunities for restaurant chains to fill gaps in the market.
 
 ![P Pollution](Images/ratings.png "Distribution of High Rated Restaurants (>4.5) In India")
 
