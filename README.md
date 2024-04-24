@@ -51,7 +51,7 @@ This project aims to provide insights into the Indian restaurant industry throug
   
   ![P Pollution](Images/top10byrating.png "Best Restaurants_by_Ratings")
 
-  ![P Pollution](Images/on.png "Best Restaurants_by_Outlets fequency")
+  ![P Pollution](Images/no.png "Best Restaurants_by_Outlets fequency")
   
 - **Market gap analysis:** Identifing opportunities for restaurant chains to fill gaps in the market.
 
