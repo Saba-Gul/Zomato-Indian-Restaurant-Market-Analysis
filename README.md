@@ -31,11 +31,16 @@ This project aims to provide insights into the Indian restaurant industry throug
   
 ![P Pollution](Images/des1.png "Descriptive statistics")
 
-- Distribution analysis highlights variations in average cost, rating, and votes across restaurants.
+- Distribution analysis highlights variations in price range, rating, and  most popular cuisine.
+![P Pollution](Images/pr.png "Price Range")
+
+![P Pollution](Images/rat_dist.png "Rating Distrbution")
+
+![P Pollution](Images/cc.png "Most Popular Cuisines")
 
 - Correlation analysis shows the relationship between aggregate rating, price range, and votes.
   
-![P Pollution](Images/CorrMatrix.png "Correlation analysis")
+![P Pollution](Images/CorrMatrix.png "Relationship between aggregate rating, price range, and votes")
 
 - Regional analysis identifies unique characteristics of dining scenes and popular cuisines in each region.
 - Customer preference analysis examines the types of cuisines preferred in different regions and their relationship with restaurant ratings and pricing.
